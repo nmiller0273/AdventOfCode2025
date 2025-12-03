@@ -1,4 +1,4 @@
-with open("./Day 2/ProblemTwoInput.txt") as file:
+with open("./Day 2/ProblemOneInput.txt") as file:
     commands = file.read().split(",")
     for k in range(len(commands)):
         commands[k] = commands[k].split("-")
