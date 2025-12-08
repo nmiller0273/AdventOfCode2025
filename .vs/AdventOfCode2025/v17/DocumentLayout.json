@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "E:\\source\\repos\\AdventOfCode2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\source\\repos\\AdventOfCode2025\\Day 5\\Problem2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 5\\Problem2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\source\\repos\\AdventOfCode2025\\Day 6\\Problem2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 6\\Problem2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\source\\repos\\AdventOfCode2025\\Day 5\\Input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 5\\Input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\source\\repos\\AdventOfCode2025\\Day 5\\Problem1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 5\\Problem1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\source\\repos\\AdventOfCode2025\\Day 6\\Input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 6\\Input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Problem2.py",
-              "DocumentMoniker": "E:\\source\\repos\\AdventOfCode2025\\Day 5\\Problem2.py",
-              "RelativeDocumentMoniker": "Day 5\\Problem2.py",
-              "ToolTip": "E:\\source\\repos\\AdventOfCode2025\\Day 5\\Problem2.py",
-              "RelativeToolTip": "Day 5\\Problem2.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABKAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\source\\repos\\AdventOfCode2025\\Day 6\\Problem2.py",
+              "RelativeDocumentMoniker": "Day 6\\Problem2.py",
+              "ToolTip": "E:\\source\\repos\\AdventOfCode2025\\Day 6\\Problem2.py",
+              "RelativeToolTip": "Day 6\\Problem2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-12-07T20:47:06.904Z",
+              "WhenOpened": "2025-12-07T23:27:48.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Input.txt",
-              "DocumentMoniker": "E:\\source\\repos\\AdventOfCode2025\\Day 5\\Input.txt",
-              "RelativeDocumentMoniker": "Day 5\\Input.txt",
-              "ToolTip": "E:\\source\\repos\\AdventOfCode2025\\Day 5\\Input.txt",
-              "RelativeToolTip": "Day 5\\Input.txt",
-              "ViewState": "AgIAAH4EAAAAAAAAAAAUwJ4EAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\source\\repos\\AdventOfCode2025\\Day 6\\Input.txt",
+              "RelativeDocumentMoniker": "Day 6\\Input.txt",
+              "ToolTip": "E:\\source\\repos\\AdventOfCode2025\\Day 6\\Input.txt",
+              "RelativeToolTip": "Day 6\\Input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACWDgAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-05T15:11:58.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Problem1.py",
-              "DocumentMoniker": "E:\\source\\repos\\AdventOfCode2025\\Day 5\\Problem1.py",
-              "RelativeDocumentMoniker": "Day 5\\Problem1.py",
-              "ToolTip": "E:\\source\\repos\\AdventOfCode2025\\Day 5\\Problem1.py",
-              "RelativeToolTip": "Day 5\\Problem1.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-12-05T15:11:48.356Z",
+              "WhenOpened": "2025-12-07T23:20:09.817Z",
               "EditorCaption": ""
             }
           ]
